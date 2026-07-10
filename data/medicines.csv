@@ -1,0 +1,26 @@
+medicine_name,generic_name,uses,side_effects,category
+DOLO 650,Paracetamol,Fever and body pain,Nausea and stomach upset,Pain Reliever
+PARACETAMOL,Paracetamol,Fever and body pain,Nausea and stomach upset,Pain Reliever
+CROCIN,Paracetamol,Fever and headache,Nausea and dizziness,Pain Reliever
+CALPOL,Paracetamol,Fever and pain,Nausea and stomach upset,Pain Reliever
+CETIRIZINE,Cetirizine,Allergy and cold,Drowsiness,Antihistamine
+LEVOCET,Levocetirizine,Allergy and sneezing,Drowsiness,Antihistamine
+ALLEGRA,Fexofenadine,Allergy relief,Headache and nausea,Antihistamine
+AZITHROMYCIN,Azithromycin,Bacterial infection,Diarrhea and nausea,Antibiotic
+AZEE,Azithromycin,Bacterial infection,Diarrhea and nausea,Antibiotic
+AZITHRAL,Azithromycin,Bacterial infection,Diarrhea and nausea,Antibiotic
+AMOXICILLIN,Amoxicillin,Bacterial infection,Rash and diarrhea,Antibiotic
+AUGMENTIN,Amoxicillin and Clavulanic Acid,Bacterial infection,Rash and diarrhea,Antibiotic
+PANTOPRAZOLE,Pantoprazole,Acidity and GERD,Headache and diarrhea,Antacid
+PANTOCID,Pantoprazole,Acidity and GERD,Headache and diarrhea,Antacid
+OMEPRAZOLE,Omeprazole,Acidity and ulcers,Headache and stomach pain,Antacid
+PAN-D,Pantoprazole and Domperidone,Acidity and reflux,Dry mouth and headache,Antacid
+METFORMIN,Metformin,Type 2 diabetes,Nausea and bloating,Diabetes
+GLYCOMET,Metformin,Type 2 diabetes,Nausea and bloating,Diabetes
+JANUMET,Sitagliptin and Metformin,Type 2 diabetes,Nausea and stomach discomfort,Diabetes
+ATORVASTATIN,Atorvastatin,High cholesterol,Muscle pain,Cardiac
+ECOSPRIN,Aspirin,Blood thinner and heart protection,Stomach irritation,Cardiac
+TELMA,Telmisartan,High blood pressure,Dizziness,Cardiac
+THYRONORM,Levothyroxine,Hypothyroidism,Palpitations,Hormonal
+MONTEK LC,Montelukast and Levocetirizine,Allergy and asthma,Drowsiness,Respiratory
+RANTAC,Ranitidine,Acidity and heartburn,Headache,Antacid
