@@ -1,5 +1,7 @@
 # MediScan AI
 
+[![Python syntax](https://github.com/Rajureddy07/MediScan-AI/actions/workflows/syntax.yml/badge.svg)](https://github.com/Rajureddy07/MediScan-AI/actions/workflows/syntax.yml)
+
 An OCR-assisted medicine-name recognition prototype that helps a user search for likely medicine-name matches from package images. The project combines image preprocessing, text extraction, and fuzzy string matching in a Streamlit interface.
 
 > **Safety notice:** This is an educational prototype, not a medical device. OCR and fuzzy matches can be wrong. Never use its output to identify, select, dose, or take medication without confirmation from a pharmacist or other qualified healthcare professional. Do not upload private patient information.
